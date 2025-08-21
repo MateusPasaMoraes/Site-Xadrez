@@ -41,6 +41,7 @@ body {
     width: 180vh;
     height: 93vh;
     background-color: whitesmoke;
+    border-radius: 30px;    
 }
 
 button{
@@ -97,7 +98,7 @@ a{
 }
 
 a:focus{
-    border-top: 2px solid black;
+    border-bottom: 2px solid black;
 }
 
 img{
